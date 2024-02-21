@@ -6,7 +6,7 @@ brotlipy==0.7.0
 cachetools==5.3.2
 constantly==15.1.0
 cssselect==1.1.0
-datashape==0.5.4
+datashape==0.5.2
 t-xmlfile==1.1.0
 fonttools==4.25.0
 gitdb==4.0.11
